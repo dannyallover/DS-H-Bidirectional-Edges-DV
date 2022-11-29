@@ -1,3 +1,3 @@
-# Data Science Hadith Bidirectional Edges Data Validation
+# Computational Hadith: Bidirectional Edges Data Validation
 
-See [paper](paper.pdf).
+Codebase for the *Verifying Source Citations in Hadith Literature* paper.
